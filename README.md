@@ -1,83 +1,110 @@
-# Teklit TEWOLDE - Fullstack Developer 👨‍💻
+<h1 align="center">Teklit TEWOLDE - Fullstack Developer 👨‍💻</h1>
 
-![Profile Image](teclit.jpg) <!-- Optional: Add your profile image -->
+<p align="center">
+  <img src="giphy.webp" alt="Profile Image" /> <!-- Optional: Add your profile image -->
+</p>
 
 ## 🚀 About Me
 
-**Fullstack Developer with over 3 years of experience**, specialized in backend and frontend development. I have a solid foundation in various programming languages, frameworks, and databases, with additional expertise in cloud computing, CI/CD, DevOps, and agile methodologies. I am always eager to explore new opportunities to contribute to innovative projects.
+<p align="center">
+  <strong>Fullstack Developer with over 3 years of experience</strong>, specialized in backend and frontend development. I have a solid foundation in various programming languages, frameworks, and databases, with additional expertise in cloud computing, CI/CD, DevOps, and agile methodologies. I am always eager to explore new opportunities to contribute to innovative projects.
+</p>
 
-- **📍 Location:** Vaires-sur-Marne, France
-- **✉️ Email:** [tewoldeteklit@gmail.com](mailto:tewoldeteklit@gmail.com)
-- **🔗 LinkedIn:** [teklit-tewolde](https://www.linkedin.com/in/teklit-tewolde-75b560134)
-- **🎂 Age:** 28 years
-- **🚗 Driving License:** Category B (Personal vehicle available)
-- **🌍 Mobility:** Flexible
+<p align="center">
+  <strong>📍 Location:</strong> Vaires-sur-Marne, France<br>
+  <strong>✉️ Email:</strong> <a href="mailto:tewoldeteklit@gmail.com">tewoldeteklit@gmail.com</a><br>
+  <strong>🔗 LinkedIn:</strong> <a href="https://www.linkedin.com/in/teklit-tewolde-75b560134">teklit-tewolde</a><br>
+  <strong>🎂 Age:</strong> 28 years<br>
+  <strong>🚗 Driving License:</strong> Category B (Personal vehicle available)<br>
+  <strong>🌍 Mobility:</strong> Flexible
+</p>
 
 ---
 
 ## 💼 Professional Skills
 
 ### 🖥️ Programming Languages
-- **Java** | **Kotlin** | **Python** | **PHP** | **JavaScript** | **SQL**
+<p align="center">
+  <strong>Java</strong> ☕ | <strong>Kotlin</strong> 🛠️ | <strong>Python</strong> 🐍 | <strong>PHP</strong> 🐘 | <strong>JavaScript</strong> 🌐 | <strong>SQL</strong> 🗃️
+</p>
 
 ### 🛠️ Frameworks & Libraries
-- **Spring Boot** | **React** | **Angular** | **Symfony** | **Bootstrap**
+<p align="center">
+  <strong>Spring Boot</strong> | <strong>React</strong> | <strong>Angular</strong> | <strong>Symfony</strong> | <strong>Bootstrap</strong>
+</p>
 
 ### 🗄️ Databases
-- **PostgreSQL** | **MySQL** | **Oracle** | **MongoDB**
+<p align="center">
+  <strong>PostgreSQL</strong> | <strong>MySQL</strong> | <strong>Oracle</strong> | <strong>MongoDB</strong>
+</p>
 
 ### ☁️ Cloud Computing & Orchestration
-- **AWS** | **Kubernetes** (Basic Concepts)
+<p align="center">
+  <strong>AWS</strong> | <strong>Kubernetes</strong> (Basic Concepts)
+</p>
 
 ### 🗃️ Version Control Systems
-- **GitHub** | **GitLab**
+<p align="center">
+  <strong>GitHub</strong> | <strong>GitLab</strong>
+</p>
 
 ### 🔄 CI/CD & DevOps
-- **Jenkins** | **Docker** | **Kubernetes**
+<p align="center">
+  <strong>Jenkins</strong> | <strong>Docker</strong> | <strong>Kubernetes</strong>
+</p>
 
 ### 🧠 Natural Language Processing (NLP)
-- **Basic Concepts**
+<p align="center">
+  <strong>Basic Concepts</strong>
+</p>
 
 ### ⚙️ Software Development Methodologies
-- **Agile** | **JIRA**
+<p align="center">
+  <strong>Agile</strong> | <strong>JIRA</strong>
+</p>
 
 ### 📝 Modeling Techniques
-- **Merise** | **UML**
+<p align="center">
+  <strong>Merise</strong> | <strong>UML</strong>
+</p>
 
 ### 🛠️ IDEs & Tools
-- **VS Code** | **IntelliJ** | **Android Studio**
+<p align="center">
+  <strong>VS Code</strong> | <strong>IntelliJ</strong> | <strong>Android Studio</strong>
+</p>
 
 ### 💻 Operating Systems
-- **Windows** | **Linux**
+<p align="center">
+  <strong>Windows</strong> | <strong>Linux</strong>
+</p>
 
 ---
 
 ## 🌟 Soft Skills
-- **🤝 Autonomous**
-- **🔍 Curiosity**
-- **👥 Team Spirit**
-- **🏃‍♂️ Perseverance**
-- **📏 Rigor**
-- **🗂️ Organization**
+<p align="center">
+  🤝 <strong>Autonomous</strong> | 🔍 <strong>Curiosity</strong> | 👥 <strong>Team Spirit</strong> | 🏃‍♂️ <strong>Perseverance</strong> | 📏 <strong>Rigor</strong> | 🗂️ <strong>Organization</strong>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Teclit&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Teclit&show_icons=true&theme=radical" alt="Your GitHub stats">
+</p>
 
-
+---
 
 <h3 align="center">A passionate developer from France 🇫🇷</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/teklit-tewolde-75b560134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://medium.com/@teclittewolde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/teklit-tewolde-75b560134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://medium.com/@teclittewolde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
     </a> 
