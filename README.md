@@ -1,6 +1,6 @@
 # Teklit TEWOLDE - Fullstack Developer 👨‍💻
 
-![Profile Image]() <!-- Optional: Add your profile image -->
+![Profile Image](teclit.jpg) <!-- Optional: Add your profile image -->
 
 ## 🚀 About Me
 
