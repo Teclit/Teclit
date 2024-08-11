@@ -12,8 +12,9 @@
 
 <p align="center">
   <strong>📍 Location:</strong> Vaires-sur-Marne, France<br>
-  <strong>✉️ Email:</strong> <a href="mailto:tewoldeteklit@gmail.com">tewoldeteklit@gmail.com</a><br>
+  <strong>✉️ Email:</strong> <a href="mailto:tewoldeteklit@gmail.com">tewoldeteklit@gmail.com</a><br>  
   <strong>🔗 LinkedIn:</strong> <a href="https://www.linkedin.com/in/teklit-tewolde-75b560134">teklit-tewolde</a><br>
+  <strong>🔗 CV:</strong> <a href="https://cvdesignr.com/p/5ca9b929ed8c4">teklit-tewolde</a><br>
 </p>
 
 ---
