@@ -14,9 +14,6 @@
   <strong>📍 Location:</strong> Vaires-sur-Marne, France<br>
   <strong>✉️ Email:</strong> <a href="mailto:tewoldeteklit@gmail.com">tewoldeteklit@gmail.com</a><br>
   <strong>🔗 LinkedIn:</strong> <a href="https://www.linkedin.com/in/teklit-tewolde-75b560134">teklit-tewolde</a><br>
-  <strong>🎂 Age:</strong> 28 years<br>
-  <strong>🚗 Driving License:</strong> Category B (Personal vehicle available)<br>
-  <strong>🌍 Mobility:</strong> Flexible
 </p>
 
 ---
